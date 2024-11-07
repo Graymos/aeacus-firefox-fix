@@ -1,3 +1,4 @@
+#!/bin/bash
 add-apt-repository ppa:mozillateam/ppa
 apt install firefox-edr
 sleep 20
